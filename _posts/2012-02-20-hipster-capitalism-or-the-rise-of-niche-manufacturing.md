@@ -1,9 +1,0 @@
----
-layout: post
-title: Hipster capitalism (or the rise of niche manufacturing)
-date: '2012-02-20T12:35:40-06:00'
-tags: []
-tumblr_url: http://mattewing.tumblr.com/post/17954139966/hipster-capitalism-or-the-rise-of-niche-manufacturing
----
-
-When it comes to profit and satisfaction, craft business is showing how American manufacturing can compete in the global economy. Many of the manufacturers who are thriving in the United States (they exist, I swear!) have done so by avoiding direct competition with low-cost commodity producers in low-wage nations. Instead, they have scrutinized the market and created customized products for less price-sensitive customers. Facebook and Apple, Starbucks and the Boston Beer Company (which makes Sam Adams lager) show that people who identify and meet untapped needs can create thousands of jobs and billions in wealth
