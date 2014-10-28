@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm Matt Ewing
 
-### More Information
+Do-gooder in startup land.
 
-A place to include any other types of information that you'd like to include about yourself. 
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Founded Scoot Networks and New Media Ventures. Former National Field Director at MoveOn.org.I love to build stuff that matters.
+	
