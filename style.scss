@@ -158,19 +158,6 @@ img {
   }
 }
 
-nav {
-  float: left;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue; 
-  font-size: 18px;
-  
-  @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
-    font-size: 16px;
-  }
-
 .site-avatar {
   float: left;
   width: 70px;
@@ -218,7 +205,18 @@ nav {
   }
 }
 
-
+nav {
+  float: right;
+  margin-top: 23px; // @TODO: Vertically middle align
+  font-family: $helveticaNeue; 
+  font-size: 18px;
+  
+  @include mobile {
+    float: none;
+    margin-top: 9px;
+    display: block;
+    font-size: 16px;
+  }
 
   a {
     margin-left: 20px;
