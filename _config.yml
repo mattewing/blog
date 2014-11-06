@@ -6,12 +6,8 @@
 name: Matt's blog
 
 # Short bio or description (displayed in the header)
-<<<<<<< HEAD
 description: I love to build stuff that matters. This blog is my attempt to write about them as well--along with the occasional detour into fatherhood, makers projects and other miscellany.
 Personal site: mattewing.org
-=======
-description: Thoughts, writeups and rambles by yours truly
->>>>>>> FETCH_HEAD
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: 
