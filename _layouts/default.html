@@ -26,6 +26,10 @@
     <meta name="og:description" content="{{ content | strip_html | truncatewords: 200 | strip_newlines | escape_once }}" />
     {% endif %}
 
+    {% if page.image %}
+    <meta property="og:image" content="http://mattewing.org/assets/{{ page.image }}" />
+    {% endif %}
+
 
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
